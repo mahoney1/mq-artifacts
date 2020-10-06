@@ -1,1 +1,1 @@
-# mq-artifacts
+# IBM MQ artifacts
